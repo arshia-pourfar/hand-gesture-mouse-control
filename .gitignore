@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Notebooks / Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS files ---
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# --- Secrets / local configuration ---
+.env
+.env.*
+*.pem
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Third-party Windows utilities ---
+# NirCmd is downloaded separately for volume control; see README.md.
+nircmd.exe
+nircmdc.exe

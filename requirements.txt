@@ -1,0 +1,8 @@
+# Verified on Windows with Python 3.12.6.
+# These versions match the environment used to test this project.
+#
+# nircmd.exe is a separate Windows utility and cannot be installed with pip;
+# see README.md for download and setup instructions.
+opencv-contrib-python==4.10.0.84
+mediapipe==0.10.14
+pyautogui==0.9.54
