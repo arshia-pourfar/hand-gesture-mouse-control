@@ -344,5 +344,3 @@ PyAutoGUI's failsafe was triggered. Move the pointer away from the screen corner
 No `LICENSE` file has been added to this repository. All rights are reserved by the author by
 default. Third-party libraries and tools used by this project keep their own licenses and
 terms; refer to their documentation.
-#   h a n d - g e s t u r e - m o u s e - c o n t r o l  
- 
